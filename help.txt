@@ -1,0 +1,9 @@
+this code collection is destined to help in building advanced tables for the web
+
+what is to be done:
+- responsive tables for Responsive Web Design
+- tables with jQuery data tables (see: https://datatables.net/))
+- table columns will be movable (see: https://datatables.net/extensions/colreorder/)
+- tables with Angular material (see https://material.angular.io)
+optional:
+- tables with Vue.js
